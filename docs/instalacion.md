@@ -33,5 +33,5 @@ Para instalar y usar VitePress en tu proyecto, seguí estos pasos:
 Si querés probar directamente mi proyecto de documentación, podés clonarlo usando:
 
 ```bash
-git clone https://github.com/tu_usuario/mi-doc-vitepress.git
+https://github.com/AgustinVelazquez0/vitepress
 ```
