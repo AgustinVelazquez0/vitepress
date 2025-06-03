@@ -1,13 +1,7 @@
-# ¡Bienvenido a la documentación de Vitepress!
+# Documentación Mental
 
-Esta es la página principal donde encontrarás toda la información para entender y usar este proyecto.
+Esta sección es el inicio de la documentación, navega y encuentra toda la documentación necesaria para usuarios de Mental.
 
-## ¿Qué es este proyecto?
+## Primeros pasos
 
-Este proyecto es una demo con VitePress para crear documentación sencilla y efectiva.
-
-## Empezar
-
-Para empezar, podés visitar la [Guía de instalación](./instalacion.md) y la [Guía de uso](./uso.md).
-
----
+Si eres nuevo en Mental, te recomendamos empezar por el [registro y configuración de perfil](usuarios/index.md).
