@@ -9,6 +9,8 @@ module.exports = {
     nav: [
       { text: "Inicio", link: "/" },
       { text: "Guía", link: "/introduccion" },
+      { text: "Uso", link: "/uso" },
+      { text: "FAQ", link: "/faq" },
     ],
     sidebar: [
       {
