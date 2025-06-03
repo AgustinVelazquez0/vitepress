@@ -87,7 +87,7 @@ module.exports = {
       ],
     },
     footer: {
-      message: "Mental - Tu bienestar es nuestra prioridad",
+      message: "Mental - Bienvenidos al viaje",
       copyright: "Copyright © 2024 Mental App. Todos los derechos reservados.",
     },
   },
