@@ -1,6 +1,6 @@
 module.exports = {
   title: "Documentación de VitePress",
-  description: "Documentación del proyecto con VitePress",
+  description: "VitePress",
   themeConfig: {
     search: {
       provider: "local",
