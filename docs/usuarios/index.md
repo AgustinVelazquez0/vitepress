@@ -1,4 +1,6 @@
-# `Introducción`
+# Usuarios
+
+Descubre todas las caracteristicas y posibilidades al ser parte de Mental.
 
 ## ¿Qué encontrarás aquí?
 
