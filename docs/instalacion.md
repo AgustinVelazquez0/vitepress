@@ -24,7 +24,7 @@ Para instalar y usar VitePress en tu proyecto, seguí estos pasos:
    ```bash
    npm run dev
    ```
-7. Abrí tu navegador en [http://localhost:5173](http://localhost:5173) para ver tu documentación.
+7. Abrí tu navegador en [la página principal](/) para ver tu documentación.
 
 ---
 
